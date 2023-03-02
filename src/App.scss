@@ -1,0 +1,25 @@
+@import './reset.scss';
+
+body {
+  height: 100%;
+}
+
+section {
+  padding: 100px 0;
+  min-height: calc(100vh - 68px);
+}
+
+.image {
+  padding-top: 100%;
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+}
+
+.card {
+  height: 100%;
+}
+
+
