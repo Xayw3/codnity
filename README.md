@@ -1,3 +1,5 @@
+![giphy (3)](https://user-images.githubusercontent.com/85979954/222692183-b9f1eee8-f33e-4320-ba74-66e3a5a95381.gif)
+
 # Uzdevums
 
 Lietojot ReactJS (https://reactjs.org/) un Material UI (https://material-ui.com/), izstrādāt vienkāršu mājaslapu, kurā būtu:
