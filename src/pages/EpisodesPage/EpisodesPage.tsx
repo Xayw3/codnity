@@ -22,8 +22,6 @@ const EpisodePage = () => {
     }
   };
 
-  console.log(episodes);
-
   useEffect(() => {
     getEpisodes();
   }, []);
