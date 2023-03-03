@@ -1,3 +1,5 @@
+# Uzdevums
+
 Lietojot ReactJS (https://reactjs.org/) un Material UI (https://material-ui.com/), izstrādāt vienkāršu mājaslapu, kurā būtu:
 
 - Galvenes (header) daļa ar 2-3 izvēlnēm;
@@ -6,6 +8,8 @@ Lietojot ReactJS (https://reactjs.org/) un Material UI (https://material-ui.com/
 - Redux un TypeScript lietošana būs kā +
 
 Lapai jābūt responsīvai - strādājošai gan uz datora (desktop), gan uz mobilajām ierīcēm (mobile)
+
+Link: https://codnity.vercel.app/
 
 
 # Getting Started with Create React App
