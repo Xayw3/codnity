@@ -1,3 +1,13 @@
+Lietojot ReactJS (https://reactjs.org/) un Material UI (https://material-ui.com/), izstrādāt vienkāršu mājaslapu, kurā būtu:
+
+- Galvenes (header) daļa ar 2-3 izvēlnēm;
+- Kājenes (footer) daļa ar ikonām un saitēm uz paša izvēlētām sociālo tīklu vietnēm;
+- 2-3 satura lapas ar attēlu un tekstu. Vēlams saturu ielādēt no kāda brīvi pieejama API.
+- Redux un TypeScript lietošana būs kā +
+
+Lapai jābūt responsīvai - strādājošai gan uz datora (desktop), gan uz mobilajām ierīcēm (mobile)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
